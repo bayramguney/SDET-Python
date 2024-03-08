@@ -1,0 +1,37 @@
+"""
+LIST
+list=[1,2,3]
+print[list[1])
+Allow duplicates
+Mutable
+list[0]=1
+[]
+slicing can be done list[1:2]
+use list if you have a collection of data that does not need random access
+use list when u need a simple,iterable collection that is modified frequently
+
+DICTIONARY
+dict= ["tom":2,"jim":3]
+print(dict["tom"]
+duplicate keys not but values allowed
+dict["tom"]=2
+mutable
+{}
+slicing can not be done
+use when u need a logical association between key value pair
+use when u need fast lookup for your data based on a custom key
+
+TUPLE
+tup=("10,20,30" or tup=10.20.30
+tup=("john","jim") or tup="john"."jim"
+print(tup[0])
+allow duplicates.faster than list
+tup[0]   type error
+immutable
+()
+slicing can be done
+use when your data can not change
+a tup can be used in combination with dictionary,for example a tuple might represent
+a key,because it is immutable
+
+"""
